@@ -16,7 +16,7 @@ Based on Kirbystealer [exWoS Mod Framework](https://github.com/kirbystealer/WebO
 
 ### Installation
 
-1. Download the latest **`WoS Mod Manager.exe`** from the Releases or NexusMods
+1. Download the latest **`exWoS Mod Manager.exe`** from the Releases or NexusMods
 2. Place it anywhere you like but **NOT** in disk C. For example: `D:\Programs\WoSModManager
 3. Launch it
 
