@@ -100,3 +100,11 @@ Pack into `Red_Dark_Theme_Concept.zip` containing the folder above, share the zi
 ## License
 
 This project is provided as-is for the Spider-Man: Web of Shadows modding community.
+
+## Tools
+
+[Here](https://github.com/Kelthic/web_of_shadows_toolkit?) you can find my tools to work with Web of Shadows
+
+- DirectX Normal Map Convertor
+- Diffuse & Emission mixer
+- DDS to WRAP.tex
