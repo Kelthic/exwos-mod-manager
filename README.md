@@ -14,7 +14,7 @@ Install, enable, disable, and remove mods without touching any config files manu
 
 ### Installation
 
-1. Download the latest **`WoS Mod Manager.exe`** from the mod-manager directory or NexusMods
+1. Download the latest **`WoS Mod Manager.exe`** from the Releases or NexusMods
 2. Place it anywhere you like but **NOT** in disk C. For example: `D:\Programs\WoSModManager
 3. Launch it
 
