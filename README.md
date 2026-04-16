@@ -9,7 +9,7 @@ Install, enable, disable, and remove mods without touching any config files manu
 
 ### Requirements
 
-- Windows 10 / 11
+- Windows 7 / 8 / 10 / 11
 - Spider-Man: Web of Shadows (PC)
 
 ### Installation
