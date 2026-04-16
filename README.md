@@ -16,7 +16,7 @@ Install, enable, disable, and remove mods without touching any config files manu
 
 1. Download the latest **`WoS Mod Manager.exe`** from the mod-manager directory or NexusMods
 2. Place it anywhere you like but **NOT** in disk C. For example: `D:\Programs\WoSModManager
-3. Run it
+3. Launch it
 
 ### Setting up the game path
 
@@ -25,7 +25,7 @@ On first launch, point the manager to your game:
 1. Click **Browse** and select `Spider-Man Web of Shadows.exe`, or paste the path directly into the field
 2. Click **Apply** — the status pill in the top-right corner will turn green and show **Game found**
 
-The path is saved automatically and remembered on every subsequent launch.
+The path is saved automatically and remembered on every mod manager launch.
 
 ### Installing a mod
 
