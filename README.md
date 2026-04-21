@@ -3,7 +3,7 @@
 A modern minimal mod manager for **Spider-Man: Web of Shadows**.
 Install, enable, disable, and remove mods without touching any config files manually.
 
-Based on Kirbystealer [exWoS Mod Framework](https://github.com/kirbystealer/WebOfShadowsTools/releases/download/v0.2.0/ex_WoS.alpha.0.0.3.zip). Actual version at this moment: `0.0.3 alpha`
+Based on Kirbystealer [exWoS Mod Framework](https://github.com/kirbystealer/WebOfShadowsTools/releases). Actual version at this moment: `0.0.3 alpha`
 
 ---
 
